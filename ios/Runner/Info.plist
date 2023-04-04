@@ -6,6 +6,8 @@
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>カメラロールから画像を取得します。</string>
 	<key>CFBundleDisplayName</key>
 	<string>垢抜けTODO</string>
 	<key>CFBundleExecutable</key>
